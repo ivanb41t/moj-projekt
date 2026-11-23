@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Tekst sa main grane
-=======
-Tekst sa druge grane
->>>>>>> grana-izmjena
+NOvi red skrooz
